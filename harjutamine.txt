@@ -2,3 +2,7 @@ Github on faili või koodi jagamiseks teenus.
 Githubi kasutavad programmmeriad.
 Edasipidid saab Githubi kasutada teistest programmerimise tundides,
 jagada koode.
+
+2007. aastal oktoobris asutati Github
+Asutajad on Tom Pretson-Werner,Chris Wasntrath,Scott Chacon ja P. J. Hyett.
+Github'i teendus sai kättesaadavaks 2008. aastal.
