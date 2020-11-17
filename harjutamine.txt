@@ -1,2 +1,4 @@
 Github on faili või koodi jagamiseks teenus.
 Githubi kasutavad programmmeriad.
+Edasipidid saab Githubi kasutada teistest programmerimise tundides,
+jagada koode.
